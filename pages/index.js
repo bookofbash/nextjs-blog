@@ -21,7 +21,7 @@ export default function Home( {allPostsData} ) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I'm Bashir, a linguist, conversation designer, and creater of this site. My path to conversation design started while completing my masters in applied linguistics.
+        <p>I'm Bashir Harrell, a linguist, conversation designer, and creater of this site. My path to conversation design started while completing my masters in applied linguistics.
 
 I became really interested in computer assisted language learning (CALL) and computer programming in general. That started my journey in learning how to code. I really enjoying creating things from my imagination and this gives me the ability to do that.
 
